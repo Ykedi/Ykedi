@@ -23,3 +23,5 @@
   
   # C++'ta Değişken örnegi
   [tıkla](Degiskenler.cpp)
+  [tıkla](Degiskenler.cpp2)
+  [tıkla](Degiskenler.cpp3)
