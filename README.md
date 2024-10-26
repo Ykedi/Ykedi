@@ -22,6 +22,6 @@
   4 Türkçe karakterler kullanılamaz.
   
   # C++'ta Değişken örnegi
-  [tıkla](Degiskenler.cpp)
-  [tıkla](2Degiskenler.cpp)
-  [tıkla](3Degiskenler.cpp)
+  [örnek1](Degiskenler.cpp)
+  [örnek2](2Degiskenler.cpp)
+  [örnek3](3Degiskenler.cpp)
