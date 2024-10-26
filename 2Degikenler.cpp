@@ -2,5 +2,5 @@
 using namspace std;
 int main ()
 {
- int sayi1=9;
+ string metin="bir varmıs ...;";
 }
