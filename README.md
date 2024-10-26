@@ -20,3 +20,6 @@
   2 Değişkende adında boşluk bulunamaz.
   3 Halihazırda C++'ta bir anlamı bulunan ifadeler değişken adında bulunamaz.
   4 Türkçe karakterler kullanılamaz.
+  
+  # C++'ta Değişken örnegi
+  [tıkla](Degiskenler.cpp)
