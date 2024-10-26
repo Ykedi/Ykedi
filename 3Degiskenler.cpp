@@ -2,5 +2,5 @@
 using namspace std;
 int main ()
 {
- int sayi1=9;
+ int havaguzel=1;
 }
