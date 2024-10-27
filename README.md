@@ -23,5 +23,5 @@
   
   # C++'ta Değişken örnegi
   [örnek1](Degiskenler.cpp)
-  [örnek2](2Degiskenler.cpp)
+  [örnek2](2Degikenler.cpp)
   [örnek3](3Degiskenler.cpp)
