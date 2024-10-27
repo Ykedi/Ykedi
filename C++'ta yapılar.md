@@ -1,0 +1,2 @@
+Değişkenler:
+[tıkla](README)
