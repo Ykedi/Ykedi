@@ -2,4 +2,4 @@
  C++'ta koşullu yapılar içerisine kod yazıldığında sizin belirlediğiniz bir koşul sağlanıyorsa yazılır.
  İf yapısı bir koşullu yapıdır.C++'ta her proje başladığında ilk koşullu yapı olarak kullanılır.
 
-  
+    [örnek3](3Degiskenler.cpp)
