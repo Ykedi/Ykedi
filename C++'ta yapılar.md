@@ -1,2 +1,2 @@
 Değişkenler:
-[tıkla](README)
+[tıkla](README.md)
