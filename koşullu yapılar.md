@@ -1,5 +1,4 @@
  # C++'ta koşullu yapı
  C++'ta koşullu yapılar içerisine kod yazıldığında sizin belirlediğiniz bir koşul sağlanıyorsa yazılır.
  İf yapısı bir koşullu yapıdır.C++'ta her proje başladığında ilk koşullu yapı olarak kullanılır.
-
- <a href="README.md">bu benim hayatim</a>
+ [örnek](kedi)
